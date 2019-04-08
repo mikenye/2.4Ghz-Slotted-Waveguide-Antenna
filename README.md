@@ -2,6 +2,8 @@
 
 A 2.4 GHz 180 degree [slotted waveguide antenna](https://en.wikipedia.org/wiki/Slotted_waveguide), originally designed for outdoor 802.11b wireless (back in 2001).
 
+The 180 degree antenna exhibited a gain of 14dBi, and the 360 degree version (slots machined on both sides) exhibited 11dBi gain. It is horizontally polarised.
+
 I've decided to open source these designs in the hope that someone may find them useful. With the advent of "desktop machining", it should be pretty straightforward for someone to manufacture these antennas at home.
 
 They were manufactured out of 100mm x 50mm x 1000m lengths of extruded aluminium box section. The end-caps were made from aluminium bar.
