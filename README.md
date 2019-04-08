@@ -23,6 +23,8 @@ For fittings, stainless steel is recommended as the antenna will likely be outsi
 
 If you want to make an omnidirectional antenna, just machine the slots on both sides.
 
+If you end up making this, please send me the G code (or whatever code your CNC machine takes) so I can add to the project, thanks. :-)
+
 # History
 
 Back in 2001, when I was young (and my heart was an open book), I was a member of the ["WA FreeNet"](http://members.wafreenet.org/index.php/); a community of IT, radio and communications enthusiasts that set up a metropolitan area network using off-the-shelf 802.11b wifi equipment. This was back when ADSL1 had just been released where we lived, and the vast majority of us only had 56kbps dial-up (so getting a couple of Mbps to a friend's place was a big deal).
